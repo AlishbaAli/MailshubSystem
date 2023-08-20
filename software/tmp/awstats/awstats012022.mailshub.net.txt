@@ -1,0 +1,992 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/mailshub/tmp/awstats/awstats.mailshub.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2692                
+POS_VISITOR 23201               
+POS_DAY 26387               
+POS_DOMAIN 3495                
+POS_LOGIN 3861                
+POS_ROBOT 4016                
+POS_WORMS 4443                
+POS_EMAILSENDER 4574                
+POS_EMAILRECEIVER 4717                
+POS_SESSION 27244               
+POS_SIDER 27453               
+POS_FILETYPES 4852                
+POS_DOWNLOADS 5139                
+POS_OS 11884               
+POS_BROWSER 12145               
+POS_SCREENSIZE 13090               
+POS_UNKNOWNREFERER 13164               
+POS_UNKNOWNREFERERBROWSER 13510               
+POS_ORIGIN 13800               
+POS_SEREFERRALS 13941               
+POS_PAGEREFS 14102               
+POS_SEARCHWORDS 14318               
+POS_KEYWORDS 14470               
+POS_MISC 2356                
+POS_ERRORS 14529               
+POS_CLUSTER 3717                
+POS_SIDER_404 14669               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201010912 212 49453 10276915002833
+FirstTime 20220101004533
+LastTime 20220131232727
+LastUpdate 20220201070810 212 0 38 173 0
+TotalVisits 203                 
+TotalUnique 80                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 83                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 971 1029 10193922 334 353 835214
+1 1725 1826 13246228 295 300 20324
+2 1276 1346 11813654 150 161 417802
+3 83 85 253595 48 55 3934
+4 944 1065 12817828 219 224 36926
+5 532 646 12078118 208 219 391137
+6 542 597 8183267 337 348 438650
+7 21 27 549822 42 47 1089
+8 6 12 406814 41 42 4676
+9 7 13 408496 30 34 1209
+10 2 8 403450 15 15 84
+11 2 8 404291 55 59 2454
+12 2 2 841 58 60 4100
+13 3 15 807741 97 98 1377
+14 10 11 39172 35 37 1872
+15 4 10 405973 25 31 401715
+16 3 9 405132 56 57 356
+17 6 18 810264 63 66 1225
+18 2 2 1682 270 333 3607
+19 3 3 2523 505 515 401815
+20 4 4 6110 46 51 324
+21 8 14 407655 59 66 1093
+22 164 233 2547009 84 118 15840
+23 865 1113 15390224 205 219 21657
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+cn 7090 7740 80233940
+us 47 143 6480430
+pk 12 177 4847352
+in 11 11 0
+ru 11 11 7569
+se 5 5 4205
+fr 2 2 1682
+ua 2 2 4428
+de 2 2 1682
+jp 2 2 1682
+nl 1 1 841
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 28 1373069 20220119090916 0
+bingbot/ 20 1206251 20220128123517 0
+survey 3 6642 20220130122914 0
+SemrushBot/ 1 841 20220103180843 0
+DuckDuckGo\-Favicons\-Bot/ 1 841 20220120124628 0
+no_user_agent 1 2214 20220122182734 0
+java 1 841 20220113141032 0
+Firefox/1\.5 1 2214 20220118084701 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+map 18 5098554 0 0
+jpg 28 883664 0 0
+css 354 15651431 0 0
+woff 10 415268 0 0
+html 8 25128 0 0
+txt 93 5952 0 0
+png 9 76542 0 0
+jpeg 75 156551 0 0
+php 7135 43939409 0 0
+js 347 24634435 0 0
+svg 5 7485 0 0
+woff2 14 689392 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 93
+/.well-known/pki-validation/EFEC56867628F8E7E18E77610FA0FBA9.txt 1 0 64
+/.well-known/pki-validation/374E0015F04FBFB80B77356DE5EEB5BB.txt 1 0 64
+/.well-known/pki-validation/B57297021622D6FCAACC79507BA46C4D.txt 1 0 64
+/.well-known/pki-validation/B678E38F08CF7A27110BB272C731395F.txt 1 0 64
+/.well-known/pki-validation/2A576A574673C059702308312EFEA869.txt 1 0 64
+/.well-known/pki-validation/2C561A29D0ED3FEC8D6ED89E7625CE40.txt 1 0 64
+/.well-known/pki-validation/E991191B8008F1E18C3D97A35B77E365.txt 1 0 64
+/.well-known/pki-validation/61344B36A9AD3F482609C5AFEB3969D0.txt 1 0 64
+/.well-known/pki-validation/F1F66212EA68F0E0A6E6A3CEEE8C6EF7.txt 1 0 64
+/.well-known/pki-validation/85A88B42A9626F967329AAC7DF92D9A9.txt 1 0 64
+/.well-known/pki-validation/1C12E777E369ABF4792EAAAE8DE19BAC.txt 1 0 64
+/.well-known/pki-validation/0091C09558EE21A1CC120A3F13F6302C.txt 1 0 64
+/.well-known/pki-validation/48116F93733A4C1A5C4480C479FF63FA.txt 1 0 64
+/.well-known/pki-validation/34CB4FF2992D7D8E27C89D7BDA1A1C8A.txt 1 0 64
+/.well-known/pki-validation/A2030A0B1E328B01BAF1F509DFEBFB0B.txt 1 0 64
+/.well-known/pki-validation/CF2503C15886AA97EB7BFA850FE66E05.txt 1 0 64
+/.well-known/pki-validation/95F626EA57F3C3B474467655A1438ACA.txt 1 0 64
+/.well-known/pki-validation/CC75DB6AB7B61BBEFF560AEB69690555.txt 1 0 64
+/.well-known/pki-validation/3F823A175D4F66608F4FC642E3979362.txt 1 0 64
+/.well-known/pki-validation/278FE80824A1DB82699F584B74811CB1.txt 1 0 64
+/.well-known/pki-validation/E264EC55370DD2B650CA2CD8B2B8F565.txt 1 0 64
+/.well-known/pki-validation/EB6A52A2C9D3F57FF6D888B86A5EB733.txt 1 0 64
+/.well-known/pki-validation/B493C71D864993CB383494B1500B5816.txt 1 0 64
+/.well-known/pki-validation/E98E3A07AFC2E111EE590D550EA71531.txt 1 0 64
+/.well-known/pki-validation/35A83D6C3DFD4B5167DE80FACE69F436.txt 1 0 64
+/.well-known/pki-validation/8098BF6B71024907BBD88F03C2D11EE1.txt 1 0 64
+/.well-known/pki-validation/E27A30C420B369EE3F36F7AB2198BCA6.txt 1 0 64
+/.well-known/pki-validation/A4F8411B4DC3B452B4041837D8ED95F7.txt 1 0 64
+/.well-known/pki-validation/F2AD20224172EAF6683FCB358882052B.txt 1 0 64
+/.well-known/pki-validation/A683D344FEB149A825383495FC13E438.txt 1 0 64
+/.well-known/pki-validation/21D68CE985429241995EACDCCC76B7DE.txt 1 0 64
+/.well-known/pki-validation/7E1880F89BE96DFD653F1C20C11B91B4.txt 1 0 64
+/.well-known/pki-validation/34F9C997E793EE91D8BC71CCD1C418CB.txt 1 0 64
+/.well-known/pki-validation/D4EDF8F2B6B0E3B6E90E0EFEEA118744.txt 1 0 64
+/.well-known/pki-validation/500DA1475C37AE5BBD5267721FF1F226.txt 1 0 64
+/.well-known/pki-validation/15E54730541FE38E11468AC645C6DE7C.txt 1 0 64
+/.well-known/pki-validation/7FFE8A4B6894F8E0FD3558844B3897C1.txt 1 0 64
+/.well-known/pki-validation/2A4390D6370D220DEA4E0F5146707EB3.txt 1 0 64
+/.well-known/pki-validation/99BE03B4C1E0D05C32BE8225385B7011.txt 1 0 64
+/.well-known/pki-validation/11C82B405ADE96A14214B40056D290AD.txt 1 0 64
+/.well-known/pki-validation/9E803B8EF25B2B3C820859172DC75966.txt 1 0 64
+/.well-known/pki-validation/35BE96AD541254DE5131EF099B26A068.txt 1 0 64
+/.well-known/pki-validation/865BD97B3C07D4F64C54840DAFA8E310.txt 1 0 64
+/.well-known/pki-validation/E955599A39757EF804B677B0C023FCC0.txt 1 0 64
+/.well-known/pki-validation/503AFF4824761B60664047A0C13674FB.txt 1 0 64
+/.well-known/pki-validation/65DB49E024C54049F29D4780E457C3DA.txt 1 0 64
+/.well-known/pki-validation/04A11A89D87D662CB16F4E79DD922E91.txt 1 0 64
+/.well-known/pki-validation/E30A0BF9906BAC2ED64EFABDE5E11269.txt 1 0 64
+/.well-known/pki-validation/AC240860B0E5BBEE4CDFD30B24A5BA99.txt 1 0 64
+/.well-known/pki-validation/E6AB77401AC3E6903DDE92CEDAAECFED.txt 1 0 64
+/.well-known/pki-validation/3D6B7E31BA0DA98B5C607D87FB29D7A0.txt 1 0 64
+/.well-known/pki-validation/9C4F572359451C87DCDEE58161D1C773.txt 1 0 64
+/.well-known/pki-validation/6E984D8FFB16E36DAB638662B9A2F051.txt 1 0 64
+/.well-known/pki-validation/09B99429FACF25A0AD23D7ADBECCC4A6.txt 1 0 64
+/.well-known/pki-validation/25DF78347B6850588D06B22CB44C23D8.txt 1 0 64
+/.well-known/pki-validation/659E2E712CDE4609A8D268232ACB3473.txt 1 0 64
+/.well-known/pki-validation/10415102E219CC53C0DE433FA7FB16CB.txt 1 0 64
+/.well-known/pki-validation/EEF7E98A8C599970ACEC3F8E0F7760FB.txt 1 0 64
+/.well-known/pki-validation/D4152B483155BF2CDDF34130E203CBA1.txt 1 0 64
+/.well-known/pki-validation/28E2C0BB7568443561D330450DFE61C0.txt 1 0 64
+/.well-known/pki-validation/8FF40203CA88DC679CB64A1F6CFE0796.txt 1 0 64
+/.well-known/pki-validation/DDBC5EE0FA629D500D58DADC07248AA2.txt 1 0 64
+/.well-known/pki-validation/25BD6CB66EF25E52C8D82732F8914E69.txt 1 0 64
+/.well-known/pki-validation/F934547D0FCD1D3B1D658BEA87B9F5E0.txt 1 0 64
+/.well-known/pki-validation/EBC35C0B675C737F8D0769C25F9AEB41.txt 1 0 64
+/.well-known/pki-validation/1DDB91A6BB4093A6D7AB66354DE5A346.txt 1 0 64
+/.well-known/pki-validation/76670B3624F810E2D98B10EAABC24180.txt 1 0 64
+/.well-known/pki-validation/35A831F4D34D01B7AB035AA0E6D4794B.txt 1 0 64
+/.well-known/pki-validation/025B206580FADA8F6B25FC6B87350822.txt 1 0 64
+/.well-known/pki-validation/E01D9212F9FE41B1352EBAD8DB6408ED.txt 1 0 64
+/.well-known/pki-validation/9869DA6DD6639C3151D38BB8E49FB53E.txt 1 0 64
+/.well-known/pki-validation/7E8A735045CE5483424426DCFC0CB011.txt 1 0 64
+/.well-known/pki-validation/650FF7E3953A5279CB52215E03BA7B65.txt 1 0 64
+/.well-known/pki-validation/E27385B948BBC1A5A62CFAF6DF2AC7B3.txt 1 0 64
+/.well-known/pki-validation/C5FAA2A37EBF8F354F14FDB51D32BFA8.txt 1 0 64
+/.well-known/pki-validation/86397152A620E7B8D300AB6F90773B85.txt 1 0 64
+/.well-known/pki-validation/A5E6BEAEF5677B7A7A1A0B8BE98B35FA.txt 1 0 64
+/.well-known/pki-validation/CBF1512F2F234C0B692A3D909B55C0BD.txt 1 0 64
+/.well-known/pki-validation/24A60698CAA85FD03E6E2F91C1341EF2.txt 1 0 64
+/.well-known/pki-validation/08D00C101E806CC3D3D6895BBF2653B4.txt 1 0 64
+/.well-known/pki-validation/3110320CF6DF8875FBFFBC3D8332DCEE.txt 1 0 64
+/.well-known/pki-validation/CD15C980A694240B43B18F6B6196A46D.txt 1 0 64
+/.well-known/pki-validation/1DA565F1639F23FEC57C0591AE9894EB.txt 1 0 64
+/.well-known/pki-validation/DCA56540829F4802DA161B8D3E75100E.txt 1 0 64
+/.well-known/pki-validation/E693B13DE844EC33C8EC54066D9694C1.txt 1 0 64
+/.well-known/pki-validation/6683AD048498193E719B92AD06388BE5.txt 1 0 64
+/.well-known/pki-validation/96CF6DC9C7AE82EC0A85174185A8BB5E.txt 1 0 64
+/.well-known/pki-validation/0E0F7BAE6E12E023C4DCC6418D75C189.txt 1 0 64
+/.well-known/pki-validation/B03FC47632F0C9E645B79ED8F3BC8EC0.txt 1 0 64
+/.well-known/pki-validation/E4451387EFB7B0A66A531C36E1334098.txt 1 0 64
+/.well-known/pki-validation/D2EEDB42BAB3D65DB6A1E3B8A1B38481.txt 1 0 64
+/.well-known/pki-validation/94B859FBE271BF305099BB7EE1B490D0.txt 1 0 64
+/.well-known/pki-validation/43D7AB666DE96F3D30E95944E02A9A50.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+macosx14 1 1
+linux 7719 7075
+winlong 4 4
+win10 213 45
+Unknown 105 12
+androidlollipop 1 1
+macosx12 1 1
+macosx10 1 1
+winxp 1 1
+win8.1 3 3
+macosx13 5 5
+win8 1 1
+win7 25 19
+macosx8 1 1
+macosx9 15 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 41
+chrome76.0.3809.71 56 8
+firefox40.1 1 1
+chrome41.0.2272.89 1 1
+firefox49.0 1 1
+chrome73.0.3683.90 1 1
+chrome26.0.1410.65 1 1
+chrome41.0.2226.0 1 1
+chrome96.0.4664.45 42 6
+chrome41.0.2228.0 1 1
+chrome74.0.3729.169 10 10
+chrome72.0.3626.119 9 3
+Unknown 101 8
+mozilla 4 4
+chrome36.0.1985.125 3 3
+chrome33.0.1750.517 1 1
+chrome96.0.4664.110 1212 1132
+chrome91.0.4472.114 8 8
+chrome79.0.3945.79 56 8
+chrome34.0.1847.116 1 1
+firefox36.0 2 2
+chrome74.0.3729.157 2 2
+chrome97.0.4692.71 4231 3918
+firefox59.0 1 1
+chrome49.0.2623.112 3 3
+chrome83.0.4103.61 8 8
+opera53.0.2907.68 1 1
+firefox51.0 1 1
+chrome95.0.4638.69 15 3
+safari11.0 1 1
+chrome41.0.2227.1 1 1
+chrome83.0.4103.116 7 1
+chrome84.0.4147.105 1 1
+chrome71.0.3578.98 2 2
+firefox68.0 1 1
+chrome94.0.4606.71 2235 2014
+safari7.0.3 1 1
+chrome35.0.1916.47 11 11
+firefox31.0 2 2
+chrome97.0.4692.99 45 9
+chrome41.0.2224.3 1 1
+chrome92.0.4515.107 14 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+python-requests/2.22.0 20220114023902
+GRequests/0.10 20220106175124
+COMODO_DCV 20220131232703
+python-requests/2.26.0 20220110153053
+Mozilla/5.0_(compatible;_ips-agent) 20220116094820
+python-requests/2.27.0 20220111225232
+python-requests/2.24.0 20220118085213
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+GRequests/0.10 20220106175124
+python-requests/2.27.0 20220111225232
+python-requests/2.24.0 20220118085213
+COMODO_DCV 20220131232703
+python-requests/2.22.0 20220114023902
+python-requests/2.26.0 20220110153053
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 307 400
+From1 0 0
+From2 1 1
+From3 4 10
+From4 6873 7685
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://mail.mailshub.net 4 4
+http://mail.mailshub.net/login.php 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+206 6 208734
+302 1452 200522
+403 218 0
+500 1 4123
+404 1695 2188
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 358
+/myserver.pem 1 -
+/%20-%20Copy.env 1 -
+/billing.zip 1 -
+/billing.sql 1 -
+http://mailshub.net/%2fserver-status%2f 2 -
+/dbdump.zip 1 -
+/assets/vendor/parsleyjs/js/parsley.min.js.map 2 -
+/news/wp-includes/wlwmanifest.xml 25 -
+/test.php 1 -
+/star.mailshub.net.pem 1 -
+/wp/wp-includes/wlwmanifest.xml 25 -
+/js/envConfig.js 1 -
+/users.zip 1 -
+/requests.log 1 -
+/server.pem 1 -
+/sales.zip 1 -
+/database.sql 1 -
+/%20-%20.env 1 -
+/key.key 1 -
+/scripts/config/env/production.js 1 -
+/site.sql 1 -
+/resources/js/app.js 1 -
+/buildkite.json 1 -
+/web.log 1 -
+/website/wp-includes/wlwmanifest.xml 25 -
+/wordpress/ 1 -
+/apache/logs/access.log 1 -
+/users.sql.zip 1 -
+/apache/logs/errors_log 1 -
+/adminer.php 2 -
+/circle.yml 1 -
+/influxdb 1 -
+/bak/ 1 -
+/clients.zip 1 -
+/clients.sql 1 -
+/sales.sql.zip 1 -
+/setup.sql 1 -
+/icons../env 1 -
+/contact 3 -
+/app/parameters.yml 1 -
+/config/parameters.yml 1 -
+/app.js 2 -
+/mailshub.sql 1 -
+/vendor/laravel/.env 1 -
+/%3cxyz%3e 1 -
+/home/ 1 -
+/root/.rbenv/plugins/ruby-build/.git/config 1 -
+http://mailshub.net/./server-status 4 -
+/pages-starter.html 721 http://mailshub.net/addCampaign.php
+/root/.ssh/id_rsa~ 1 -
+/dbdump.sql 1 -
+/assets../env 1 -
+/logs/access_log 1 -
+/.env~ 1 -
+/errors/errors.log 1 -
+///example.com/..%2fartifactory/webapp 1 -
+/v2/ 1 -
+/environments/environment.ts 1 -
+/scripts/config/env/staging.js 1 -
+/temp.sql 1 -
+/logout.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/login.php/logi 1 -
+/root/.ssh/%23id_dsa%23 1 -
+/assets/js/app.js 1 -
+/_app/.env 1 -
+/.circleci/config.yml 1 -
+/solr/ 1 -
+/media../env 1 -
+/www.mailshub.net.key 1 -
+http://mailshub.net/balancer-manager/ 1 -
+/www.mailshub.net.pem 1 -
+/auth/admin/master/console/ 1 -
+/backup.zip 1 -
+/.git-credentials 1 -
+/server-status 1 -
+/components/navbar/navbar.html 1 -
+/user_images/add%20image 16 http://mailshub.net/profile2.php
+/wp2/wp-includes/wlwmanifest.xml 24 -
+/cache.php 1 -
+/backup.sql 1 -
+/kapacitor/v1/tasks/1 1 -
+/logs/access.log 1 -
+/root/.ssh/id_rsa 1 -
+/ansible.cfg 1 -
+/js../.env 1 -
+/testing.php 1 -
+/browser/ 1 -
+/config.yml 1 -
+/%21.env 1 -
+/env.json/ 1 -
+/data.sql 1 -
+/temp/ 1 -
+/config/environments/development.rb 1 -
+/actuator/heapdump 1 -
+/application/env.json 1 -
+/config/environments/production.rb 1 -
+/root/.ssh/id_dsa 1 -
+/go/pipelines 1 -
+/dashboard/env.html 1 -
+/aaa%3cxyz%3e 1 -
+/localhost.zip 1 -
+http://mailshub.net//server-status 2 -
+/errors/error_log 1 -
+/web_log 1 -
+/dist/app.js 1 -
+/myserver.key 1 -
+/content_server/config/environments/test.rb 1 -
+/v2/_catalog 2 -
+/key.pem 1 -
+http://mailshub.net/server-status/./ 2 -
+/mailshub.sql.zip 1 -
+/star_mailshub.key 1 -
+/docker-compose.yml 1 -
+/wordpress/wp-login.php 1 http://mailshub.net
+/config/env 1 -
+/wp-admin/ 1 -
+/star_mailshub_net.key 1 -
+/2021/wp-includes/wlwmanifest.xml 1 -
+/log/access_log 1 -
+/js../env 1 -
+/~app/.env 1 -
+http://mailshub.net/debug/pprof/ 1 -
+/database.sql.zip 1 -
+/id_rsa 1 -
+/ooh/js/envConfig.js 1 -
+/sql.zip 1 -
+/wp/wp-login.php 1 http://mailshub.net
+/ad.php 2 -
+/assets../.env 1 -
+/test/ 1 -
+/test/wp-includes/wlwmanifest.xml 25 -
+/robots.txt 33 -
+/actuator/env/ 1 -
+/wp-login.php 29 -
+/copy.env 1 -
+/deploy.sql.zip 1 -
+/db_backup.zip 1 -
+/envConfig.js 1 -
+/build.sql 1 -
+/star.mailshub.pem 1 -
+/assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css.map 9 -
+/wp2/ 1 -
+/root/.ssh/id_dsa~ 1 -
+/maintenances 1 -
+/wp1/wp-includes/wlwmanifest.xml 26 -
+/laravel/.env 1 -
+/.env.schema 1 -
+/blog/wp-login.php 1 http://mailshub.net
+/%22%3E%3Cxyz%3e 1 -
+/database.zip 1 -
+/phpinfo.php 1 -
+/requests_log 1 -
+/db.zip 1 -
+/sql.sql 1 -
+/scripts/config/env/development.js 1 -
+/site/ 1 -
+/apache/logs/errors.log 1 -
+/errors/errors_log 1 -
+/id_rsa~ 1 -
+/httpd/logs/access_log 1 -
+/apache/logs/access_log 1 -
+/info.php 1 -
+/parameters.yml 1 -
+/wp/ 1 -
+/media/wp-includes/wlwmanifest.xml 16 -
+http://mailshub.net/server-status 2 -
+/dump.sql 1 -
+/mysql.sql 1 -
+/mailshub_net.key 1 -
+/bk/ 1 -
+/dump.zip 1 -
+/init.sql 1 -
+/dev/ 1 -
+/products.sql 1 -
+/config/environments 1 -
+/db_backup.sql.zip 1 -
+/src/app.js 1 -
+/shipping.sql 1 -
+/www.mailshub.net.sql 1 -
+/request.log 1 -
+/x 30 -
+/demo/ 1 -
+/mailshub_net.pem 1 -
+/backup/ 1 -
+/ads.txt 5 -
+/id_dsa 1 -
+http://mailshub.net//images 1 -
+/admin/ 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/content_server/config/environments/development.rb 1 -
+/log/access.log 1 -
+/venv/lib/.git/config 1 -
+/.ssh/id_rsa 1 -
+/star.mailshub.net.key 1 -
+/scripts/config/env/default.js 1 -
+/db_backup.sql 1 -
+/mailshub.net.sql.zip 1 -
+/access_log 1 -
+/img../env 1 -
+/web/ 1 -
+/media../.env 1 -
+/xyzxyz 1 -
+/.ssh/id_dsa~ 1 -
+http://mailshub.net/////server-status 1 -
+/dashboard 1 -
+/dashboard/ 1 -
+/api/systeminfo 1 -
+/server.key 1 -
+/blog/wp-includes/wlwmanifest.xml 25 -
+/main/ 1 -
+/app/.env 2 -
+/www_mailshub_net.pem 1 -
+/heapdump 1 -
+/humans.txt 5 -
+/www_mailshub_net.key 1 -
+/test_404_page/ 3 -
+/adminer/ 2 -
+/feed/ 1 -
+/prod/.env 1 -
+/new/ 1 -
+/xmlrpc.php 25 -
+/root/.ssh/%23id_rsa%23 1 -
+/dump.sql.zip 1 -
+/.env.prod 1 -
+/deploy.sql 1 -
+/migrations.sql 1 -
+/sql.sql.zip 1 -
+/Dockerrun.aws.json 1 -
+/.circleci/circle.yml 1 -
+/.ssh/%23id_rsa%23 1 -
+/request_log 1 -
+/site/wp-includes/wlwmanifest.xml 26 -
+/localhost.sql.zip 1 -
+/schema.sql 1 -
+/content_server/config/environments/staging.rb 1 -
+/sitemap.xml 1 -
+/.gitlab-ci.yml 1 -
+/billing.sql.zip 1 -
+/actuator/env.json/ 1 -
+/config/.env 1 -
+/v1/_catalog 1 -
+/wp1/ 1 -
+/icons../.env 1 -
+/blob/.env 1 -
+/config/environments/test.rb 1 -
+/id_dsa~ 1 -
+/www.mailshub.net.sql.zip 1 -
+/old/ 1 -
+/errors/error.log 1 -
+/dashboard/js/envConfig.js 1 -
+/users.sql 1 -
+/v1/_ping 2 -
+/artifactory/api/access/api/v1/users/ 1 -
+/ad/creative/display/js/envConfig.js 1 -
+/mailshub.pem 1 -
+/config/app.php 2 -
+/blog/ 1 -
+/solr/admin/ 1 -
+/.buildkite/pipeline.json 1 -
+/static../.env 1 -
+/sales.sql 1 -
+/install/ 1 -
+/clients.sql.zip 1 -
+/localhost.sql 1 -
+http://mailshub.net/balancer-manager 1 -
+/web/wp-includes/wlwmanifest.xml 26 -
+/go/admin/pipeline/new 1 -
+/sito/wp-includes/wlwmanifest.xml 25 -
+/images../env 1 -
+/api/access/api/v1/users/ 1 -
+/env 1 -
+/private.pem 1 -
+/ext_tables.sql 1 -
+/service/extdirect 1 -
+/deploy.zip 1 -
+/v1/ 1 -
+/v2/keys/ 1 -
+/wp-includes/wlwmanifest.xml 25 -
+/.well-known/security.txt 2 -
+/mysql.zip 1 -
+/config/environment.rb 1 -
+/new-site/ 1 -
+/cms/wp-includes/wlwmanifest.xml 25 -
+/cms/ 1 -
+/star_mailshub_net.pem 1 -
+/create.sql 1 -
+/old-site/ 1 -
+/tmp/ 1 -
+/2020/ 1 -
+/app/config/parameters.yml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 25 -
+/scripts/config/env/testing.js 1 -
+/cluster/cluster 1 -
+/New_Campaign 2 http://mailshub.net/index.php
+/site.sql.zip 1 -
+/.ssh/id_rsa~ 1 -
+/ui/ 1 -
+http://mailshub.net/pprof/ 1 -
+/dbdump.sql.zip 1 -
+/products.sql.zip 1 -
+/star.mailshub.key 1 -
+/2020/wp-includes/wlwmanifest.xml 10 -
+/access.log 1 -
+/application/env.json/ 1 -
+/temp.zip 1 -
+/.ssh/id_dsa 1 -
+/%3E 1 http://mailshub.net/addAuthor.php
+/%c0 30 -
+/manager/heapdump 1 -
+/js.php 1 -
+/shipping.sql.zip 1 -
+/content_server/config/environments/production.rb 1 -
+/mysql.sql.zip 1 -
+/%23id_dsa%23 1 -
+/environments/environment.prod.ts 1 -
+http://mailshub.net/server-status/x/../ 2 -
+/mailserver_dashboard.php 9 http://mailshub.net/login.php
+/privatekey.pem 1 -
+/%23id_rsa%23 1 -
+/old-wp/ 1 -
+/2018/wp-includes/wlwmanifest.xml 15 -
+/shop/wp-includes/wlwmanifest.xml 25 -
+/-%20Copy.env 1 -
+/2018/ 1 -
+/httpd/logs/access.log 1 -
+/ad-formats-widget/js/envConfig.js 1 -
+/img../.env 1 -
+/.env 12 -
+/debug.php 1 -
+/privatekey.key 1 -
+/sidekiq/ 1 -
+/site.zip 1 -
+/db.sql.zip 1 -
+/scripts/app.js 1 -
+/2019/wp-includes/wlwmanifest.xml 26 -
+/star_mailshub.pem 1 -
+/pi.php 1 -
+/mailshub.net.pem 1 -
+/env/lib/.git/config 1 -
+/shipping.zip 1 -
+/db.sql 1 -
+/static../env 1 -
+/tables.sql 1 -
+/2019/ 1 -
+/_catalog 1 -
+/mailshub.key 1 -
+/temp.sql.zip 1 -
+/backup.sql.zip 1 -
+/.ssh/%23id_dsa%23 1 -
+/_adminer.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/mailshub.net.sql 1 -
+/install.sql 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/products.zip 1 -
+/mailshub.net.key 1 -
+/images../.env 1 -
+/private.key 1 -
+/i.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 83
+103.236.132.222 6728 7229 69423250 20220131232727
+103.236.132.220 343 486 10387983 20220124041828
+65.154.226.165 7 49 2824150 20220126101124
+185.119.81.103 5 5 4205 20220124215237
+42.83.147.34 5 5 4205 20220123215011
+13.37.217.242 3 3 2523 20220114023902
+5.188.62.214 3 3 2523 20220114023717
+121.28.181.90 3 3 2523 20220117010409
+123.123.223.36 3 3 2523 20220122032808
+39.106.98.188 2 2 1682 20220106175124
+205.169.39.168 2 8 404291 20220107171024
+65.154.226.100 2 8 404291 20220117023517
+103.17.203.229 2 14 806900 20220117084007
+45.129.18.169 2 2 0 20220117041058
+205.169.39.100 2 8 404291 20220123011017
+205.169.39.214 2 8 404291 20220130004550
+65.154.226.220 2 8 404291 20220104151843
+205.169.39.86 2 8 404291 20220126003405
+72.13.46.5 2 2 1682 20220111094337
+205.169.39.231 2 8 404291 20220121173525
+106.75.184.38 2 2 4428 20220104202322
+185.191.34.215 2 2 0 20220122001753
+205.169.39.183 2 8 404291 20220109160906
+45.129.18.23 1 1 0 20220126054123
+58.27.225.6 1 7 403450 20220113064423
+130.255.166.98 1 1 841 20220106065321
+194.44.247.218 1 1 2214 20220121144523
+202.69.48.60 0 93 5952 
+23.19.80.80 1 1 841 20220114144549
+36.99.136.130 1 3 303783 20220117054358
+3.249.216.222 1 1 841 20220110081209
+45.129.18.107 1 1 0 20220107103030
+185.181.60.189 1 1 841 20220126081252
+72.13.46.3 1 1 841 20220103215142
+45.129.18.129 1 1 0 20220101144022
+52.37.135.254 1 1 841 20220127012554
+18.159.212.181 1 1 841 20220101004533
+43.128.204.223 1 1 841 20220106200639
+43.133.109.217 1 1 841 20220102172814
+20.124.91.57 1 1 841 20220110153053
+111.88.104.136 1 7 403450 20220118113528
+45.129.18.78 1 1 0 20220127061053
+45.129.18.39 1 1 0 20220113120031
+216.145.5.42 1 1 841 20220120085259
+36.99.136.135 0 1 8720 
+168.119.62.44 1 1 841 20220127012222
+111.119.161.8 1 7 403450 20220117063337
+34.209.213.113 1 1 841 20220130092328
+77.111.247.251 1 1 841 20220129132655
+20.108.160.53 1 1 841 20220118085213
+110.93.194.4 1 7 403450 20220117055421
+111.119.161.7 1 7 403450 20220113053110
+72.13.62.27 1 1 841 20220116094820
+58.27.225.7 1 7 403450 20220117055436
+93.158.91.239 1 1 841 20220121071228
+45.129.18.21 1 1 0 20220110083719
+106.75.177.238 1 1 2214 20220105003817
+58.27.225.5 1 7 403450 20220126065603
+192.71.225.127 1 1 841 20220108115112
+148.153.2.34 1 1 841 20220102144052
+65.21.206.44 1 1 841 20220110090752
+46.101.80.192 1 1 841 20220131152231
+119.160.114.229 1 7 403450 20220126061135
+54.149.162.250 1 1 841 20220115182947
+36.99.136.133 1 2 31864 20220117054357
+45.129.18.62 1 1 0 20220114234520
+45.129.18.251 1 1 0 20220120041719
+36.99.136.134 1 2 58838 20220117054403
+182.176.130.5 1 7 403450 20220106042304
+5.9.117.84 1 1 841 20220111225232
+58.27.130.4 1 7 403450 20220113052149
+36.99.136.131 0 1 1927 
+45.129.18.99 1 1 0 20220109213817
+93.158.90.71 1 1 841 20220127194320
+159.203.115.159 1 1 0 20220121214810
+65.155.30.101 1 7 403450 20220121094140
+65.21.206.43 1 1 841 20220119004538
+62.210.88.24 1 1 841 20220107060816
+176.100.8.204 1 1 2214 20220103072507
+34.222.147.106 1 1 841 20220116183003
+198.46.212.234 1 1 841 20220117062021
+194.163.153.136 1 1 841 20220127011736
+130.255.166.26 1 1 841 20220114212957
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20220101 4 13 405324 4
+20220102 113 136 1229027 5
+20220103 374 391 5376319 8
+20220104 236 249 4325857 6
+20220105 497 616 11913088 8
+20220106 856 885 10115464 11
+20220107 266 311 3239833 9
+20220108 4 19 808774 3
+20220109 50 62 682600 4
+20220110 109 158 1189715 11
+20220111 248 321 5535636 11
+20220112 2551 2562 4074699 3
+20220113 136 207 4632083 11
+20220114 47 60 932499 10
+20220115 1 4 1033 1
+20220116 28 41 761429 4
+20220117 182 243 6149222 20
+20220118 221 232 1484141 8
+20220119 102 112 2129933 5
+20220120 339 361 4415937 8
+20220121 150 174 4027435 10
+20220122 4 7 2715 2
+20220123 20 36 632511 4
+20220124 189 217 4066380 6
+20220125 179 244 4519697 2
+20220126 78 115 2487302 10
+20220127 146 163 2151824 9
+20220128 13 54 2090393 2
+20220129 1 4 1033 1
+20220130 12 53 706012 3
+20220131 29 46 1495896 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 21
+0s-30s 113
+15mn-30mn 5
+2mn-5mn 6
+30s-2mn 4
+5mn-15mn 7
+1h+ 47
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 95
+/ajax_status.php 2471 165993 0 0
+/index.php 703 7660242 2 11
+/sys__dashboard.php 577 16465913 6 30
+/login.php 495 411734 182 107
+/reply_to_email_form_users.php 189 1147481 0 5
+/org_dashboard.php 188 3199195 0 5
+/ip_calculator.php 186 1173470 0 3
+/mailserver_dashboard.php 185 2757831 2 3
+/system_settings_form.php 166 220102 0 2
+/addip-mailserver.php 160 896509 2 8
+/verifyAlertDashboard.php 140 1324649 2 2
+/profile2.php 139 1271495 0 1
+/orgunit_form.php 118 742645 0 2
+/role_and_activity.php 89 836727 0 3
+/service_provider_ajax.php 85 202070 0 8
+/ip_blacklist_report_new.php 82 533501 2 0
+/manage_org_db.php 76 3848 0 0
+/reply_to_email_form.php 67 528709 0 1
+/user_status.php 63 303613 0 0
+/ip_blacklist_ipwise_ajax.php 56 158736 0 1
+/ip_blacklist_agencywise_ajax.php 55 153258 0 0
+/orgunitedit.php 54 239775 0 0
+/addCampaign.php 53 276286 0 0
+/user_management.php 53 336961 0 2
+/system_settings.php 50 215627 2 2
+/rtemid_user_edit.php 17 70693 0 0
+/pw_reset.php 4 5441 1 0
+/edit_user_org.php 3 12714 0 0
+/orgunitedit_db.php 5 654 0 0
+/Check_draft_alert.php 42 99063 0 0
+/ajax_score.php 15 699 0 0
+/orgunsubscriberList.php 1 4465 0 0
+/role_orgunit_edit.php 6 27231 0 0
+/swap.php 20 1049 0 0
+/rtemid_dept_edit.php 5 24504 0 0
+/block_domain.php 3 21933 0 0
+/verifyAlert_cron.php 1 24 0 0
+/rtem_org_status_db.php 2 40 0 0
+/external_unsubscribe.php 1 5021 0 0
+/reply_to_email_edit.php 20 96505 0 0
+/send_pemail.php 5 1287 0 0
+/perm_block_url_edit.php 4 18932 0 0
+/Edit_draft.php 11 55502 0 0
+/add_user.php 4 30958 0 0
+/add_pool_mailserver_ajax.php 22 2895 0 0
+/assets/vendor/bootstrap-colorpicker/css/bootstrap-colorpicker.css.map 9 61812 0 0
+/editorg_setting.php 5 28129 0 0
+/dnsbl.php 33 237665 0 0
+/verifyAlert.php 14 74689 0 0
+/mail-ipdetails_form.php 31 257482 0 1
+/make_email_primary.php 2 48 0 0
+/perm_block_url_form.php 18 95414 0 0
+/dnsbl_form.php 7 33280 0 0
+/edit_draft_db.php 7 29889 0 0
+/add_role_prev.php 2 9146 0 0
+/assets/fonts/simple-Line-Icons.woff 10 415268 0 0
+/ctype_form.php 5 32992 0 0
+/mailserver-orgunit_edit.php 6 25906 0 0
+/add_user_db.php 1 4207 0 0
+/add_super_admin.php 7 33100 0 1
+/page-403.html 5 0 0 0
+/reply_to_email_req_edit.php 3 13944 0 0
+/import_file.php 2 7884 0 0
+/ipdetails_edit.php 2 10047 0 0
+/user_status_db.php 7 891 0 0
+/editsystem_setting.php 24 108661 0 0
+/sendAlert.php 2 7898 0 0
+/user_edit.php 9 39029 0 0
+/ip_blacklist_mailserver_ajax.php 28 66025 0 0
+/reply_to_email_req_mngmt.php 17 126848 1 0
+/Edit_camp_new.php 13 71341 0 1
+/mailserver_edit.php 2 8124 0 0
+/add_service_provider.php 3 12981 0 0
+/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2 10 617280 0 1
+/edit_role_prev.php 1 4526 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 9 5036742 0 1
+/ip_calculator_db.php 11 1440 0 0
+/addip-mailserver_db.php 4 1623 0 0
+/add_draft_db.php 5 20913 0 0
+/org_settings.php 9 43223 0 0
+/ctype_ou_edit.php 2 9284 0 0
+/user_images/ 1 1526 0 0
+/ 2 23602 0 1
+/add_ip_mailserver_ajax.php 23 3636 0 0
+/addAuthor.php 10 46747 0 0
+/ip_blacklist_orgwise_ajax.php 43 85414 0 0
+/edit_activity.php 3 13652 0 0
+/embargo_archive_cron.php 18 1780 1 0
+/reply_to_email_req.php 11 69318 0 1
+/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2 4 72112 0 0
+/rtem_org_status.php 27 119817 0 0
+/block_url.php 3 14249 0 0
+/editdnsbl.php 13 52932 0 0
+/addDraft.php 5 22219 0 0
+/unsubscriberList.php 6 387036 0 0
+END_SIDER

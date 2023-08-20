@@ -1,0 +1,1 @@
+{"version":"2.4","action":"fetch","timeout":0,"data":[{"user":"mailshub","type":"main","homedir":"/home/mailshub"},{"homedir":"/etc/apache2/logs/domlogs/mailshub","type":"logaccess","user":"mailshub_logs"}],"status":1,"mode":"simple","error":0,"exit_code":0,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE"}
